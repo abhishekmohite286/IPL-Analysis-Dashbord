@@ -32,9 +32,9 @@ Develop a  ipl Dashboard for season 2008 to 2022 to have a detailed insight on b
 7) Public
 
 # POWER BI FUNCTIONALITIES YOU WILL LEARN
-1) HOw to Connect Power BI to Excel
+1) How to Connect Power BI to Excel
 2) Data Modelling with three table
-3) Data C;leaning in Power Query
+3) Data Cleaning in Power Query
 4) Time Intelligence Function
 5) Creating KPI's
 6) Dax Queries
